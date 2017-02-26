@@ -1,0 +1,25 @@
+{
+  "name": "simple-blog",
+  "version": "0.0.1",
+  "description": "Simple CMS for blogs and static sites ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RusFjord/SimpleBlog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "reactjs",
+    "stylus"
+  ],
+  "author": "Fedor Endovitskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RusFjord/SimpleBlog/issues"
+  },
+  "homepage": "https://github.com/RusFjord/SimpleBlog#readme"
+}
