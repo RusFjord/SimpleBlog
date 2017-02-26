@@ -1,7 +1,7 @@
 {
   "name": "simple-blog",
   "version": "0.0.1",
-  "description": "Simple CMS for blogs and static sites ",
+  "description": "Simple CMS for blogs and static sites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/RusFjord/SimpleBlog/issues"
   },
-  "homepage": "https://github.com/RusFjord/SimpleBlog#readme"
+  "homepage": "https://github.com/RusFjord/SimpleBlog#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
