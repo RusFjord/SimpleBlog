@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/RusFjord/SimpleBlog#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
     "del": "^2.2.2",
     "gulp-concat": "^2.6.1",
     "gulp-debug": "^3.1.0",
